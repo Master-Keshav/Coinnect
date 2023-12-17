@@ -1,2 +1,2 @@
 # A Blockchain and Crypto Currency Project
-[Coinnct Live Link](https://coinnect-gilt.vercel.app/)
+[Coinnect Live Link](https://coinnect-gilt.vercel.app/)
