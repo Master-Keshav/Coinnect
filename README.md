@@ -1,3 +1,3 @@
 # A Blockchain and Crypto Currency Project
 
-[Visit OpenAI](https://www.openai.com/)
+[Coinnect Live Link](https://coinnect-gilt.vercel.app/)
